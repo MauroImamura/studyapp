@@ -1,7 +1,7 @@
 # StudyApp
 
 Based on training program PYSTACK WEEK 9.0 by Caio Sampaio
-<p align="end">Janeiro de 2024</p>
+<p align="end">January, 2024</p>
 
 This application provides a study platform where users can create sets of flashcards to test their knowledge. With the flashcards, it is possible to create challenges and generate reports that indicate students' performance in each subject. 
 Furthermore, there is a section for submitting and sharing materials, allowing users to access them from anywhere.
