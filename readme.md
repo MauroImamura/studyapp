@@ -1,7 +1,13 @@
-Project 'StudyApp'
-Based on training program PYSTACK WEEK 9.0 by Caio Sampaio
+# StudyApp
 
-January 2024
+Based on training program PYSTACK WEEK 9.0 by Caio Sampaio
+<p align="end">Janeiro de 2024</p>
+
+This application provides a study platform where users can create sets of flashcards to test their knowledge. With the flashcards, it is possible to create challenges and generate reports that indicate students' performance in each subject. 
+Furthermore, there is a section for submitting and sharing materials, allowing users to access them from anywhere.
+
+<img src="https://github.com/MauroImamura/images/blob/main/StudyApp.jpg"/>
+
 --
 
 Initial Setup
@@ -25,11 +31,11 @@ Initial Setup
     pip install django==5.0.1
     pip install pillow==10.2.0
 
-4# Subir o DB
+4# Create DB
 
     py manage.py makemigrations
     py manage.py migrate
 
-#5 Subir a aplicação local
+#5 Run locally
 
     python manage.py runserver
