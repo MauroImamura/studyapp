@@ -5,10 +5,26 @@
   --light-color: #00c1f3;
   --contrast-color: #f4c96b;
   --differential-color: #58fcd5;
-  AULA 1 5;
 }
 
 body {
   background-color: var(--dark-color) !important;
   color: white !important;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.containerBody {
+  flex: 1;
+}
+
+.footer {
+    background-color: #000716;
+    padding: 20px;
+    text-align: right;
+}
+
+.footer .container {
+    text-align: right;
 }
